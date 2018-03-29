@@ -1,0 +1,9 @@
+h1 {
+  background-color: green; }
+
+body {
+  background-color: lightgreen;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
